@@ -1,8 +1,8 @@
 # test_proj
 
-##pip install flask
+```pip install flask```
 
-##python app.py
+```python app.py```
 
 # Примеры API-запросов для сервиса отзывов
 
